@@ -20,8 +20,8 @@ namespace MagicTheGatheringClientv1
         {
             aPlayer = rand.Next(0, 2);
             nPlayer = ((aPlayer == 1) ? (0) : (1));
-            players[0] = new Player(Zendikar);
-            players[1] = new Player(!Zendikar);
+            //players[0] = new Player(Zendikar);
+            //players[1] = new Player(!Zendikar);
             phase = 0;
             players[aPlayer].active = true;
             players[nPlayer].active = false;
