@@ -1,5 +1,4 @@
 c:\users\andrew\documents\2016 Fall\MagicTheGatheringClientv1\MagicTheGatheringClientv1\bin\Debug\MagicTheGatheringClientv1.exe.config
-C:\Users\Andrew\Documents\2016 Fall\MagicTheGatheringClientv1\MagicTheGatheringClientv1\obj\Debug\MagicTheGatheringClientv1.csprojResolveAssemblyReference.cache
 C:\Users\Andrew\Documents\2016 Fall\MagicTheGatheringClientv1\MagicTheGatheringClientv1\obj\Debug\MagicTheGatheringClientv1.Form1.resources
 C:\Users\Andrew\Documents\2016 Fall\MagicTheGatheringClientv1\MagicTheGatheringClientv1\obj\Debug\MagicTheGatheringClientv1.Properties.Resources.resources
 C:\Users\Andrew\Documents\2016 Fall\MagicTheGatheringClientv1\MagicTheGatheringClientv1\obj\Debug\MagicTheGatheringClientv1.csproj.GenerateResource.Cache
@@ -9,3 +8,5 @@ C:\Users\Andrew\Documents\2016 Fall\MagicTheGatheringClientv1\MagicTheGatheringC
 C:\Users\Andrew\Documents\2016 Fall\MagicTheGatheringClientv1\MagicTheGatheringClientv1\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Andrew\Documents\2016 Fall\MagicTheGatheringClientv1\MagicTheGatheringClientv1\obj\Debug\MagicTheGatheringClientv1.exe
 C:\Users\Andrew\Documents\2016 Fall\MagicTheGatheringClientv1\MagicTheGatheringClientv1\obj\Debug\MagicTheGatheringClientv1.pdb
+C:\Users\Andrew\Documents\2016 Fall\MagicTheGatheringClientv1\MagicTheGatheringClientv1\obj\Debug\MagicTheGatheringClientv1.GameBoard.resources
+C:\Users\Andrew\Documents\2016 Fall\MagicTheGatheringClientv1\MagicTheGatheringClientv1\obj\Debug\MagicTheGatheringClientv1.csprojResolveAssemblyReference.cache

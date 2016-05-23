@@ -4,7 +4,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-
 namespace MagicTheGatheringClientv1
 {
     static class Program
@@ -17,7 +16,7 @@ namespace MagicTheGatheringClientv1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Form1(null));
         }
     }
 }
